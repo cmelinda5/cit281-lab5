@@ -14,5 +14,5 @@
 ### Takeaways
 - Learned how to use Postman and organize query collections
 - Continued to practice writing web-server Node.js JavaScript code and work with Fastify to add routes using GET verb, route parameter and responds with JSON
-- Add handling for POST that accepts JSON request body
+- Add handling for POST that accepts a JSON request body
 - Practiced using Postman to to test GET and POST 
