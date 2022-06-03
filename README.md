@@ -10,6 +10,7 @@
 - VSCode
 - Postman
 - VSCode terminal and command line interface (CLI)
+- Fastify 
 
 ### Takeaways
 - Learned how to use Postman and organize query collections
