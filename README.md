@@ -17,3 +17,15 @@
 - Continued to practice writing web-server Node.js JavaScript code and work with Fastify to add routes using GET verb, route parameter and responds with JSON
 - Add handling for POST that accepts a JSON request body
 - Practiced using Postman to to test GET and POST 
+
+## Images ##
+
+### Testing /cit/student route 
+![Testing /cit/student route](AllStudents.png)
+
+### Testing /cit/student/:id route 
+![Testing /cit/student/:id route](SingleStudent.png)
+
+### Testing * unmatched route handler 
+![Testing * unmatched route handler](Unmatched.png)
+
