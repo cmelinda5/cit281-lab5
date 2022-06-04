@@ -29,3 +29,6 @@
 ### Testing * unmatched route handler 
 ![Testing * unmatched route handler](Unmatched.png)
 
+### Testing POST request
+![Testing POST request](StudentPost.png)
+
