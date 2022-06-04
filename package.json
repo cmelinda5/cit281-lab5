@@ -1,0 +1,15 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "main": "fastify-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.29.0"
+  },
+  "description": ""
+}
